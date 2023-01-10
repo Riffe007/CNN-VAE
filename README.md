@@ -2,6 +2,7 @@
 Convolutional Neural Network - Variational AutoEncoder
 
 #**CNN-VAE**
+
 This is a Tensorflow implementation of a convolutional neural network (CNN) combined with a variational autoencoder (VAE) for unsupervised feature learning. The CNN is trained to extract features from images, while the VAE is trained to learn a compact latent representation of the images.
 
 #**Dependencies**
